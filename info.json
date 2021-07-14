@@ -1,0 +1,9 @@
+{
+  "name": "recipe_smooth",
+  "version": "1.0.0",
+  "title": "-----   R E C I P E   S M O O T H  -----",
+  "author": "Hahn Stralle",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "default no recipe wo yori smooth na recipe ni suru mod."
+}
